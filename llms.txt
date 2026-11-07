@@ -1,0 +1,99 @@
+# Bestiario Marino
+
+## Español
+
+### El libro y la obra digital
+
+Bestiario Marino es el título de un libro escrito por Abraham Truxillo y de una obra de literatura digital creada por Lidya Cota y Abraham Truxillo. El libro presenta la obra literaria en un formato tradicional de lectura en páginas. La obra digital ofrece una experiencia interactiva que combina textos, poesía visual animada, voz y sonido. La autoría del libro corresponde a Abraham Truxillo; las aportaciones a la obra digital se detallan en los créditos de este proyecto.
+
+### Créditos de la obra digital
+
+- Diseño creativo, programación, animación y voz: [Lidya Cota](https://www.lidyacota.com).
+- Diseño creativo, textos y poemas visuales: [Abraham Truxillo](https://www.abrahamtruxillo.net).
+
+Estas aportaciones describen el trabajo de cada persona en la obra digital.
+
+### Cómo se explora la obra digital
+
+La portada presenta once peces que dan acceso a las distintas piezas. Las flechas permiten alternar entre las composiciones animadas y los textos; las anclas laterales enlazan las piezas y el timón regresa a la portada. Cada pantalla animada dispone de un control para reproducir su audio. El botón de información abre la presentación y los créditos.
+
+La experiencia se publica en una sola dirección: https://bestiariomarino.github.io/bestiariomarino/. Sus pantallas forman parte de esa misma página; no son páginas independientes con direcciones propias.
+
+### Creación, reconocimiento y dedicatoria de la obra digital
+
+La obra digital se terminó de construir en la Ciudad de México en marzo de 2021, durante el segundo año de la pandemia de COVID-19. Fue creada para participar en el primer concurso de Literatura Digital Julio Torri 2021, en México, donde recibió una mención honorífica.
+
+La dedicatoria de la obra digital dice: «Dedicamos esta obra a las víctimas mortales de la enfermedad y a quienes aún resisten y colaboran para superarla juntxs».
+
+### Herramientas, recursos y atribuciones
+
+La página web y sus animaciones se realizaron con Google Web Designer y componentes de código abierto. Los íconos y la fotografía provienen de canva.com y pexels.com. Los caligramas, poemas visuales y textos usan las tipografías Stardos Stencil y Lora. Los créditos del proyecto atribuyen los siguientes recursos de audio de freesound.org:
+
+- “freewilly.mp3” por mjudo12 con licencia CC BY 3.0.
+- “LargeWoodenShip.mp3” por PimFeijen con licencia CC0 1.0.
+- “Submarine” por Samantha_Dolman con licencia CC BY-NC 3.0.
+
+### Licencia de la obra digital
+
+La licencia documentada para la obra digital es Creative Commons Atribución-NoComercial-SinDerivadas 3.0 (CC BY-NC-ND 3.0). Los recursos de terceros conservan las licencias y atribuciones indicadas en sus créditos. Esta información no establece una licencia para el libro.
+
+- [Licencia en español](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.es).
+- [Licencia en inglés](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en).
+
+### Obra y documentación
+
+- [Bestiario Marino: obra digital](https://bestiariomarino.github.io/bestiariomarino/).
+- [Repositorio del proyecto](https://github.com/bestiariomarino/bestiariomarino).
+- [README: presentación, créditos y documentación](https://github.com/bestiariomarino/bestiariomarino/blob/main/README.md).
+- [Sitio personal de Lidya Cota](https://www.lidyacota.com).
+- [Sitio personal de Abraham Truxillo](https://www.abrahamtruxillo.net).
+
+---
+
+## English
+
+### The book and the digital work
+
+Bestiario Marino is the title of a book written by Abraham Truxillo and a work of digital literature created by Lidya Cota and Abraham Truxillo. The book presents the literary work in a traditional, page-based reading format. The digital work offers an interactive experience combining texts, animated visual poetry, voice, and sound. Abraham Truxillo is the author of the book; the contributions to the digital work are detailed in this project's credits.
+
+### Credits for the digital work
+
+- Creative design, programming, animation, and voice: [Lidya Cota](https://www.lidyacota.com).
+- Creative design, texts, and visual poems: [Abraham Truxillo](https://www.abrahamtruxillo.net).
+
+These credits describe each person's contributions to the digital work.
+
+### Exploring the digital work
+
+The opening screen presents eleven fish that lead to the different pieces. Arrows switch between the animated compositions and the texts; the side anchors connect the pieces, and the ship's wheel returns to the opening screen. Each animated screen provides a control for playing its audio. The information button opens the presentation and credits.
+
+The experience is published at a single address: https://bestiariomarino.github.io/bestiariomarino/. Its screens are part of that same page; they are not separate pages with their own addresses.
+
+### Creation, recognition, and dedication of the digital work
+
+The digital work was completed in Mexico City in March 2021, during the second year of the COVID-19 pandemic. It was created for the first Julio Torri Digital Literature competition in Mexico in 2021, where it received an honorable mention.
+
+The digital work is dedicated to those who lost their lives to the disease and to everyone who continues to endure and work together to overcome it.
+
+### Tools, resources, and attributions
+
+The website and its animations were created with Google Web Designer and open-source components. The icons and photography come from canva.com and pexels.com. The calligrams, visual poems, and texts use the Stardos Stencil and Lora typefaces. The project's credits attribute the following audio resources from freesound.org:
+
+- “freewilly.mp3” by mjudo12, licensed under CC BY 3.0.
+- “LargeWoodenShip.mp3” by PimFeijen, licensed under CC0 1.0.
+- “Submarine” by Samantha_Dolman, licensed under CC BY-NC 3.0.
+
+### License of the digital work
+
+The documented license for the digital work is Creative Commons Attribution-NonCommercial-NoDerivs 3.0 (CC BY-NC-ND 3.0). Third-party resources retain the licenses and attributions stated in their credits. This information does not establish a license for the book.
+
+- [License in Spanish](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.es).
+- [License in English](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en).
+
+### Work and documentation
+
+- [Bestiario Marino: digital work](https://bestiariomarino.github.io/bestiariomarino/).
+- [Project repository](https://github.com/bestiariomarino/bestiariomarino).
+- [README: presentation, credits, and documentation](https://github.com/bestiariomarino/bestiariomarino/blob/main/README.md).
+- [Lidya Cota's personal website](https://www.lidyacota.com).
+- [Abraham Truxillo's personal website](https://www.abrahamtruxillo.net).
